@@ -12,3 +12,6 @@
 2016.11.14
 中文的是Lintcode上的题，英文的是Leetcode上的题
 Lintcode上的使用Python，主要是为了练习Python语法和它的解决问题的小技巧，而不是算法。
+
+2016.12.4
+Java解法用来练习
